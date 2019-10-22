@@ -1,5 +1,6 @@
 
 def get_file_columns(file_name, col_nums):
+    print('Something')
     cols = []
 
     for l in open(file_name, encoding = "ISO-8859-1"):
